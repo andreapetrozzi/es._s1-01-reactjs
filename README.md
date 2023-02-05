@@ -1,3 +1,30 @@
+### Description
+Create your first React App using `create-react-app`.
+
+Make sure you have `NodeJS` installed in your System.
+Use the command: `node-v` in terminal. (you should see the installed node version number)
+
+Use the boilerplate with `create-react-app` to create your new React application, on the Desktop.
+
+Enter your new project folder via terminal using the `cd` command.
+
+When you are in the project folder (in the same level where the `package.json` file is present), launch the application with `npm start`; 
+after some time the browser should open a new tab and when the build process is finished you should see the welcome page with the spinning React logo.
+
+Create a new component like function, call it `ButtonComponent`: 
+it should return a `button` tag. The button text should be passed through the Props of the component and displayed between the `<button></button>` tags.
+
+Create a new component as a class, name it `ImageComponent`: 
+it should return an `img` tag. The image source `src` as well as the 'alt' attribute
+should be passed through the component's Props and assigned to the `<img />` tag.
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
